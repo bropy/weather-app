@@ -1,0 +1,23 @@
+.weather-box{
+    font: italic 12pt 'Trebuchet MS';
+}
+.data-list{
+    margin-bottom: 30px;
+}
+h3{
+    color: teal;
+}
+table{
+    width: 50%;
+    margin: 10px auto;
+}
+th{
+    padding: 5px;
+    font: bold italic 11pt 'Trebuchet MS';
+    color: navy;
+
+}
+td{
+    padding: 5px;
+    font: 12px 'Consolas';
+}
